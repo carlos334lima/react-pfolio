@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-pfolio/static/css/main.6f6762f3.chunk.css",
-    "main.js": "/react-pfolio/static/js/main.4ae91daa.chunk.js",
-    "main.js.map": "/react-pfolio/static/js/main.4ae91daa.chunk.js.map",
+    "main.js": "/react-pfolio/static/js/main.e642f959.chunk.js",
+    "main.js.map": "/react-pfolio/static/js/main.e642f959.chunk.js.map",
     "runtime-main.js": "/react-pfolio/static/js/runtime-main.d4033b4b.js",
     "runtime-main.js.map": "/react-pfolio/static/js/runtime-main.d4033b4b.js.map",
     "static/js/2.c3824a8e.chunk.js": "/react-pfolio/static/js/2.c3824a8e.chunk.js",
@@ -11,14 +11,19 @@
     "static/css/main.6f6762f3.chunk.css.map": "/react-pfolio/static/css/main.6f6762f3.chunk.css.map",
     "static/js/2.c3824a8e.chunk.js.LICENSE.txt": "/react-pfolio/static/js/2.c3824a8e.chunk.js.LICENSE.txt",
     "static/media/Figma.215276e7.png": "/react-pfolio/static/media/Figma.215276e7.png",
+    "static/media/api.26288e92.jpg": "/react-pfolio/static/media/api.26288e92.jpg",
     "static/media/bg.06b846b0.jpg": "/react-pfolio/static/media/bg.06b846b0.jpg",
     "static/media/conhecimentos.458399f9.png": "/react-pfolio/static/media/conhecimentos.458399f9.png",
-    "static/media/home.css": "/react-pfolio/static/media/contato.f00831cc.jpg"
+    "static/media/home.css": "/react-pfolio/static/media/contato.f00831cc.jpg",
+    "static/media/covid.53cfdf15.jpg": "/react-pfolio/static/media/covid.53cfdf15.jpg",
+    "static/media/curso-ingles.e90596a4.png": "/react-pfolio/static/media/curso-ingles.e90596a4.png",
+    "static/media/estacionamento.5ae39dbc.jpg": "/react-pfolio/static/media/estacionamento.5ae39dbc.jpg",
+    "static/media/logo-01 tesai.b9e8c88d.png": "/react-pfolio/static/media/logo-01 tesai.b9e8c88d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d4033b4b.js",
     "static/js/2.c3824a8e.chunk.js",
     "static/css/main.6f6762f3.chunk.css",
-    "static/js/main.4ae91daa.chunk.js"
+    "static/js/main.e642f959.chunk.js"
   ]
 }
