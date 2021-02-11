@@ -9,6 +9,7 @@ import ImgCovid from "../assets/images/covid.jpg";
 import ImgApi from "../assets/images/api.jpg";
 import ImgIngles from "../assets/images/curso-ingles.png";
 import ImgEstacionamento from "../assets/images/estacionamento.jpg";
+import ImgNetflix from "../assets/images/netflix2.jpg";
 
 //impoertação do estilo
 import "./home.css";
@@ -312,7 +313,7 @@ const Home = () => {
 
         <div className="card">
           <div className="card-img-wrapper">
-            <img src="./imagens/netflix2.jpg" alt="imagem do projeto NETFLIX" />
+            <img src={ImgNetflix} alt="imagem do projeto NETFLIX" />
           </div>
           <div className="card-info">
             <h2>Netflix</h2>
